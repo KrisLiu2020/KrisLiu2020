@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 My name is Pinghua Liu. Call me Kris if you find it's easier!
+A programmer.
 A dog lover. A gamer. Previously, an instructor.
 
 - 🔭 I’m currently a term2 student at BCIT CST program.
