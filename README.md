@@ -8,5 +8,5 @@ A dog lover. A gamer. Previously, an instructor.
 - 🌱 I’m currently learning AWS, Terraform, and Linux.
 - 📓 I'm currently practicing algorithm.
 
-- 📫 How to reach me: pliu101@bcit.ca
+- 📫 How to reach me: pliu101@my.bcit.ca
 
